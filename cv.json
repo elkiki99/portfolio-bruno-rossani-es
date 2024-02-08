@@ -186,7 +186,7 @@
         "highlights": [
           "En desarrollo"
         ],
-        "url": "https://mars.codes"
+        "url": ""
       },
       {
         "name": "UpTask",
@@ -197,7 +197,7 @@
           "Diseño responsive",
           "AJAX API y PHP"
         ],
-        "url": "https://codember.dev"
+        "url": ""
       },
       {
         "name": "AppSalon",
@@ -219,7 +219,7 @@
           "Panel CRUD para admin",
           "MySQL y OOP"
         ],
-        "url": "https://codi.link"
+        "url": "https://github.com/elkiki99/bienes-raices-mvc-oop"
       }
     ]
   }
