@@ -210,50 +210,52 @@
         ]
     }
     ],
-    "projects": [
-    {
-        "name": "DevWebCamp",
-        "isActive": true,
-        "description": "Sitio web para una conferencia de diseño con pasarelas de pago y registro de usuarios.",
-        "highlights": [
-        "En desarrollo"
-        ],
-        "url": ""
-    },
-    {
-        "name": "UpTask",
-        "isActive": true,
-        "description": "Administrador de proyectos al estilo de lista de tareas pendientes",
-        "highlights": [
-        "Fetch API",
-        "Diseño Responsivo",
-        "AJAX API y PHP"
-        ],
-        "url": "https://github.com/elkiki99/UpTask_MVC"
-    },
-    {
-        "name": "AppSalon",
-        "isActive": "",
-        "description": "Proyecto para un salón de belleza con autenticación y reserva de citas",
-        "highlights": [
-        "Panel de administración",
-        "Autenticación de token",
-        "JavaScript y MVC"
-        ],
-        "url": "https://github.com/elkiki99/appsalon-mvc-php"
-    },
-    {
-        "name": "Bienes Raíces",
-        "isActive": "",
-        "description": "Proyecto de gestión de bienes raíces con área de blogs, propiedades y gestión de usuarios",
-        "highlights": [
-        "Consultas a base de datos",
-        "Panel CRUD para admin",
-        "MySQL y OOP"
-        ],
-        "url": "https://github.com/elkiki99/bienes-raices-mvc-oop"
-    }
-    ]
+    "projects":[
+      {
+         "name":"DevWebCamp",
+         "isActive":true,
+         "description":"Sitio web para una conferencia de IT con pasarelas de pago y registro de usuarios.",
+         "highlights":[
+            "Integración JSON",
+            "API de PayPal",
+            "API AJAX y PHP"
+         ],
+         "url":"https://github.com/elkiki99/devwebcamp"
+      },
+      {
+         "name":"UpTask",
+         "isActive": "",
+         "description":"Gestor de proyectos en estilo de lista de tareas pendientes",
+         "highlights":[
+            "API Fetch",
+            "Autenticación de token",
+            "MySQL y OOP"
+         ],
+         "url":"https://github.com/elkiki99/UpTask_MVC"
+      },
+      {
+         "name":"AppSalon",
+         "isActive":"",
+         "description":"Proyecto para un salón de belleza con autenticación y reserva de citas",
+         "highlights":[
+            "Panel de administración",
+            "Diseño receptivo",
+            "JavaScript y MVC"
+         ],
+         "url":"https://github.com/elkiki99/appsalon-mvc-php"
+      },
+      {
+         "name":"Bienes Raíces",
+         "isActive":"",
+         "description":"Proyecto de gestión inmobiliaria con área de blog, propiedades y gestión de usuarios",
+         "highlights":[
+            "Consultas a base de datos",
+            "Panel CRUD para Admin",
+            "Autenticación de usuarios"
+         ],
+         "url":"https://github.com/elkiki99/bienes-raices-mvc-oop"
+      }
+   ]
 }
     
           
