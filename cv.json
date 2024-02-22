@@ -1,46 +1,46 @@
 {
-    "basics": {
+  "basics": {
       "name": "Bruno Rossani",
-      "keyword": "Desarrollador Web Jr.",
-      "label": "Desarrollador web junior con +1 año de experiencia, especializado en el desarrollo Back End de aplicaciones",
+      "keyword": "Desarrollador Full Stack / Desarrollador de Software",
+      "label": "Desarrollador Full Stack | Desarrollador de Software",
       "image": "/me.webp",
       "email": "brossani23@gmail.com",
       "phone": "+598 91 845 585",
-      "summary": "Desarrollador web junior apasionado con un gran interés en la tecnología y la resolución de problemas. Comprometido con el aprendizaje continuo y la creación de soluciones innovadoras. Encuentro satisfacción en superar desafíos y tengo una profunda fascinación por el mundo tecnológico.",
+      "summary": "Soy un Desarrollador Full Stack diligente con un fuerte compromiso con la excelencia y más de 1 año de experiencia dedicada en el desarrollo de Back End. Me apasiona crear aplicaciones web sofisticadas y soluciones que resuenen con los usuarios y impulsen el éxito empresarial. Estoy comprometido con la mejora continua y la entrega de proyectos con el máximo esfuerzo.",
       "location": {
-        "address": "Isla de Flores y Salto",
-        "postalCode": "11200",
-        "city": "Montevideo",
-        "countryCode": "ES",
-        "region": "Uruguay"
+          "address": "Isla de Flores y Salto",
+          "postalCode": "11200",
+          "city": "Montevideo",
+          "countryCode": "ES",
+          "region": "Uruguay"
       },
       "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "Bruno Rossani",
-          "url": "https://www.linkedin.com/in/brunorossani/"
-        },
-        {
-          "network": "GitHub",
-          "username": "elkiki99",
-          "url": "https://github.com/elkiki99"
-        }
+          {
+              "network": "LinkedIn",
+              "username": "Bruno Rossani",
+              "url": "https://www.linkedin.com/in/brunorossani/"
+          },
+          {
+              "network": "GitHub",
+              "username": "elkiki99",
+              "url": "https://github.com/elkiki99"
+          }
       ]
-    },
-    "work": [
+  },
+  "work": [
       {
-        "name": "Freelance",
-        "position": "Desarrollador Full-Stack",
-        "startDate": "2023",
-        "endDate": "",
-        "summary": "Durante este período, he creado diversas páginas web y aplicaciones utilizando una variedad de herramientas y lenguajes clave, que incluyen HTML, CSS, SASS, JavaScript, PHP, y tecnologías como AJAX, MySQL, y Node.js, entre otras.",
-        "highlights": [
-          "Dirigí la implementación de pasarelas de pago PayPal y sistemas de autenticación basados en tokens para garantizar la seguridad de las operaciones en múltiples proyectos.",
-          "Supervisé la implementación de estrategias de optimización web, incluyendo carga diferida, cacheo y reducción de solicitudes HTTP, mejorando significativamente los tiempos de carga y la experiencia del usuario en el desarrollo de aplicaciones.",
-          "Lideré el desarrollo de paneles de administración, ofreciendo una gestión eficiente de contenido, usuarios y datos."
-        ]
+          "name": "Freelance",
+          "position": "Desarrollador Full Stack",
+          "startDate": "2023",
+          "endDate": "",
+          "summary": "Me centro en la implementación de tecnologías web modernas para ofrecer soluciones de calidad. He creado varios sitios web y aplicaciones utilizando una variedad de herramientas y lenguajes clave, incluidos HTML, CSS, SASS, JavaScript, PHP, y tecnologías como AJAX, MySQL y Node.js, entre otros.",
+          "highlights": [
+              "Lideré la implementación de pasarelas de pago de PayPal y sistemas de autenticación basados en tokens para garantizar la seguridad de las transacciones en múltiples proyectos.",
+              "Supervisé la implementación de estrategias de optimización web, incluido el lazy loading, el almacenamiento en caché y la reducción de solicitudes HTTP, mejorando significativamente los tiempos de carga y la experiencia del usuario en el desarrollo de aplicaciones.",
+              "Lideré el desarrollo de paneles de administración, ofreciendo una gestión eficiente de contenido, usuarios y datos."
+          ]
       }
-    ],
+  ],
     "education": [
       {
         "institution": "Escuela de Música en Bellas Artes, UDELAR",
