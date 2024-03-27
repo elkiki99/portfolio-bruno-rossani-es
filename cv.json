@@ -104,6 +104,24 @@
         ]
       },
       {
+        "name": "Tailwind",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Diseño Responsivo"
+        ]
+      },
+      {
+        "name": "Laravel",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web",
+          "Backend",
+          "Framework"
+        ]
+      },
+      {
         "name": "JavaScript",
         "level": "Intermedio",
         "keywords": [
@@ -115,6 +133,16 @@
       },
       {
         "name": "Node",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web",
+          "Backend",
+          "JavaScript",
+          "Servidor"
+        ]
+      },
+      {
+        "name": "Livewire",
         "level": "Intermedio",
         "keywords": [
           "Desarrollo Web",
@@ -212,8 +240,30 @@
     ],
     "projects":[
       {
+        "name":"DevStagram",
+        "isActive":true,
+        "description":"Un semi-clon de Instagram con autenticación de usuario, panel de usuario y operaciones CRUD.",
+        "highlights":[
+          "Livewire",
+          "User panel",
+          "Tailwind CSS"
+        ],
+        "url":"https://github.com/elkiki99/devstagram"
+      },
+      {
+        "name":"DevJobs",
+        "isActive":false,
+        "description":"Una aplicación Laravel construida con Blade y Tailwind CSS para búsqueda y aplicación de empleo.",
+        "highlights":[
+          "Laravel",
+          "Filtros de búsqueda",
+          "Blade"
+        ],
+        "url":"https://github.com/elkiki99/devstagram"
+      },
+      {
          "name":"DevWebCamp",
-         "isActive":true,
+         "isActive":false,
          "description":"Sitio web para una conferencia de IT con pasarelas de pago y registro de usuarios.",
          "highlights":[
             "Integración JSON",
