@@ -1,12 +1,12 @@
 {
   "basics": {
       "name": "Bruno Rossani",
-      "keyword": "Desarrollador Full Stack / Desarrollador de Software",
-      "label": "Desarrollador Full Stack | Desarrollador de Software",
+      "keyword": "Laravel / Desarrollador Back End / Desarrollador de Software",
+      "label": "Laravel | Desarrollador Back End | Desarrollador de Software",
       "image": "/me.webp",
       "email": "brossani23@gmail.com",
       "phone": "+598 91 845 585",
-      "summary": "Soy un Desarrollador Full Stack diligente con un fuerte compromiso con la excelencia con 1 + año de experiencia dedicado principalmente al desarrollo Back End. Me apasiona crear aplicaciones web sofisticadas y soluciones que resuenen con los usuarios e impulsen el éxito. Estoy comprometido con la mejora continua y la entrega de proyectos con el máximo esfuerzo.",
+      "summary": "Soy un Desarrollador Full Stack diligente con un fuerte compromiso con la excelencia con 1 + año de experiencia dedicado principalmente al desarrollo Back End con PHP/Laravel. Me apasiona crear aplicaciones web sofisticadas y soluciones que resuenen con los usuarios e impulsen el éxito. Estoy comprometido con la mejora continua y la entrega de proyectos con el máximo esfuerzo.",
       "location": {
           "address": "Isla de Flores y Salto",
           "postalCode": "11200",
@@ -33,7 +33,7 @@
           "position": "Desarrollador Full Stack",
           "startDate": "2023",
           "endDate": "",
-          "summary": "Me centro en la implementación de tecnologías web modernas para ofrecer soluciones de calidad. He creado varios sitios web y aplicaciones utilizando una variedad de herramientas y lenguajes clave, incluidos HTML, CSS, SASS, JavaScript, PHP, y tecnologías como AJAX, MySQL y Node.js, entre otros.",
+          "summary": "Me centro en la implementación de tecnologías web modernas para ofrecer soluciones de calidad. He creado varios sitios web y aplicaciones utilizando una variedad de herramientas y lenguajes clave, incluidos HTML, CSS, SASS, JavaScript y tecnologías como AJAX, MySQL y Node.js, aunque sin dudas mi lenguaje/framework favorito es PHP/Laravel.",
           "highlights": [
               "Lideré la implementación de pasarelas de pago de PayPal y sistemas de autenticación basados en tokens para garantizar la seguridad de las transacciones en múltiples proyectos.",
               "Supervisé la implementación de estrategias de optimización web, incluido el lazy loading, el almacenamiento en caché y la reducción de solicitudes HTTP, mejorando significativamente los tiempos de carga y la experiencia del usuario en el desarrollo de aplicaciones.",
@@ -58,12 +58,21 @@
     ],
     "certificates": [
       {
+        "name": "Laravel - Crea Aplicaciones y Sitios Web con PHP 8 y MVC",
+        "date": "2024",
+        "issuer": "Udemy",
+        "url": "https://certificate.com",
+        "highlights": [
+          "Curso completo de Laravel y su ecosistema enfocado en su estructura MVC, Blade para la presentación de datos, Eloquent ORM para consultas avanzadas y la integración de funciones de autenticación de usuarios con Breeze. Gestión de archivos y temas adicionales como middleware y notificaciones."
+        ]
+      },
+      {
         "name": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
         "date": "2023",
         "issuer": "Udemy",
         "url": "https://certificate.com",
         "highlights": [
-          "Otorgado por Udemy. Este curso abarca los fundamentos y las tecnologías clave para el desarrollo web moderno, incluyendo HTML5, CSS3, JavaScript, AJAX, PHP y MySQL."
+          "Este curso abarca los fundamentos y las tecnologías clave para el desarrollo web moderno, incluyendo HTML5, CSS3, JavaScript, AJAX, Node.js, PHP y MySQL."
         ]
       },
       {
@@ -104,24 +113,6 @@
         ]
       },
       {
-        "name": "Tailwind",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web",
-          "Frontend",
-          "Diseño Responsivo"
-        ]
-      },
-      {
-        "name": "Laravel",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web",
-          "Backend",
-          "Framework"
-        ]
-      },
-      {
         "name": "JavaScript",
         "level": "Intermedio",
         "keywords": [
@@ -133,16 +124,6 @@
       },
       {
         "name": "Node",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web",
-          "Backend",
-          "JavaScript",
-          "Servidor"
-        ]
-      },
-      {
-        "name": "Livewire",
         "level": "Intermedio",
         "keywords": [
           "Desarrollo Web",
@@ -202,13 +183,58 @@
         ]
       },
       {
+        "name": "Git",
+        "level": "Intermedio",
+        "keywords": [
+          "Control de Versiones",
+          "Código Fuente",
+          "GitHub"
+        ]
+      },
+      {
         "name": "GitHub",
         "level": "Intermedio",
         "keywords": [
           "Control de Versiones",
           "Colaboración",
-          "Código Fuente",
           "Git"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Diseño Responsivo"
+        ]
+      },
+      {
+        "name": "Alpine",
+        "level": "Intermedio",
+        "keywords": [
+          "Javascript",
+          "UX/UI",
+          "Front End"
+        ]
+      },
+      {
+        "name": "Laravel",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web",
+          "Backend",
+          "Framework"
+        ]
+      },
+      {
+        "name": "Livewire",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web",
+          "Backend",
+          "JavaScript",
+          "Servidor"
         ]
       }
     ],
