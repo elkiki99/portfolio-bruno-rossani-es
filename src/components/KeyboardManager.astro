@@ -108,9 +108,8 @@ hideBreadcrumbs></ninja-keys>
             opacity: 1;
         }
     }
-
+    
     footer {
-        background: #fdfdfd;
         border-top: 1px solid #eee;
         position: fixed;
         bottom: 0px;
@@ -127,9 +126,25 @@ hideBreadcrumbs></ninja-keys>
     }
 
     kbd {
-        background: #eee;
         border-radius: 4px;
         padding: 2px 4px;
         font-size: 12px;
+    }
+
+    .dark footer {
+        background: #1e1e1e;
+        border-top: 1px solid #444;
+        color: #f1f1f1;
+    }
+
+    .dark kbd {
+        background: #444;
+        color: #f1f1f1;
+    }
+
+    .dark ninja-keys {
+        --ninja-background: #1e1e1e;
+        --ninja-text-color: #f1f1f1;
+        --ninja-primary: #007acc;
     }
 </style>

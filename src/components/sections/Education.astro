@@ -4,7 +4,7 @@ import Section from "../Section.astro";
 import { education } from "@cv"
 ---
 
-<Section title="Educación">
+<Section title="Education">
     <ul>
         {education.map(({ institution, area, courses, studyType, startDate, endDate }) => {
             const startYear = new Date(startDate).getFullYear();
@@ -41,12 +41,10 @@ import { education } from "@cv"
         flex-direction: column;
     }
     article h3 {
-        color: #111;
         font-weight: 500;
     }
     article h4 {
         font-weight: 400;
-        color: #222;
         margin-bottom: 12px;
     }
     header {
@@ -56,11 +54,9 @@ import { education } from "@cv"
         margin-bottom: 4px;
     }
     time {
-        color: #555;
         font-size: 0.85rem;
     }
     p {
         margin-bottom: 16px;
-        font-size: .9rem;
     }
 </style>

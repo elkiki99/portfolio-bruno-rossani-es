@@ -4,7 +4,7 @@ import Section from "../Section.astro";
 import { languages } from "@cv"
 ---
 
-<Section title="Lenguajes">
+<Section title="Languages">
     <ul>
         {
             languages.map(({language, fluency}) => {
@@ -25,11 +25,10 @@ import { languages } from "@cv"
 
 <style>
     ul {
-        /* display: flex; */
+        display: flex;
         flex-direction: column;
     }
     article h3 {
-        color: #111;
         font-weight: 500;
     }
     header {

@@ -4,13 +4,11 @@ import Section from "../Section.astro";
 import { skills } from "@cv";
 ---
 
-<Section title="Habilidades">
+<Section title="Skills">
     <ul>
         {
             skills.map(({ name }) => (
-                <li>
-                    <span>{name}</span>
-                </li>
+                <li>{name}</li>
             ))
         }
     </ul>
