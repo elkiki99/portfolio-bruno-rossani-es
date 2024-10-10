@@ -48,7 +48,7 @@
         "area": "Interpretación Musical",
         "studyType": "Guitarra Clásica",
         "startDate": "2019",
-        "endDate": "2022",
+        "endDate": "2024",
         "score": "",
         "courses": [
           "Análisis musical aplicado, con sólida destreza técnica en la ejecución musical y habilidad destacada para leer partituras a primera vista.",
@@ -153,12 +153,22 @@
         ]
       },
       {
-        "name": "AJAX API",
+        "name": "SQLite",
         "level": "Intermedio",
         "keywords": [
           "Bases de Datos",
-          "Solicitud",
+          "SQL",
           "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "TALL Stack",
+        "level": "Intermedio",
+        "keywords": [
+          "Framework",
+          "Lenguajes de Programación",
+          "PHP",
           "Backend"
         ]
       },
@@ -265,73 +275,73 @@
     }
     ],
     "projects":[
-      {
-        "name":"DevStagram",
-        "isActive":true,
-        "description":"Un semi-clon de Instagram con autenticación de usuario, panel de usuario y operaciones CRUD.",
-        "highlights":[
-          "Livewire",
-          "User panel",
-          "Tailwind CSS"
-        ],
-        "url":"https://github.com/elkiki99/devstagram"
-      },
-      {
-        "name":"DevJobs",
+    {
+      "name": "Chat App",
+      "isActive": true,
+      "description": "Aplicación de chat en tiempo real inspirada en WhatsApp Web, construida con TALL Stack y WebSockets para una mensajería fluida.",
+      "highlights": [
+        "Chat en vivo",
+        "Mensajes/Notificaciones",
+        "Mensajes privados"
+      ],
+      "url": "https://chat-spring-star-2575.fly.dev/"
+    },
+    {
+      "name": "Jobs",
+      "isActive": false,
+      "description": "Jobs es una potente plantilla de aplicación full-stack diseñada para buscadores de empleo y reclutadores.",
+      "highlights": [
+        "Gestión de CV",
+        "Sistema de seguimiento",
+        "Ofertas de trabajo"
+      ],
+      "url": "https://jobs-polished-meadow-3345.fly.dev/user/elkiki_99"
+    },
+    {
+      "name": "The Edifice Gazette",
+      "isActive": false,
+      "description": "The Edifice Gazette es una potente plantilla de aplicación full-stack diseñada para plataformas de blogs.",
+      "highlights": [
+        "Suscripciones",
+        "Optimizada para SEO",
+        "Notificaciones"
+      ],
+      "url": "https://blog-floral-dream-8361.fly.dev/"
+    },
+    {
+      "name":"DevStagram",
+      "isActive":false,
+      "description":"Un semi-clon de Instagram con autenticación de usuario, panel de usuario y operaciones CRUD.",
+      "highlights":[
+        "Livewire",
+        "User panel",
+        "Tailwind CSS"
+      ],
+      "url":"https://github.com/elkiki99/devstagram"
+    },
+    {
+        "name":"DevWebCamp",
         "isActive":false,
-        "description":"Una aplicación Laravel construida con Blade y Tailwind CSS para búsqueda y aplicación de empleo.",
+        "description":"Sitio web para una conferencia de IT con pasarelas de pago y registro de usuarios.",
         "highlights":[
-          "Laravel",
-          "Filtros de búsqueda",
-          "Blade"
+          "Integración JSON",
+          "API de PayPal",
+          "API AJAX y PHP"
         ],
-        "url":"https://github.com/elkiki99/devstagram"
-      },
-      {
-         "name":"DevWebCamp",
-         "isActive":false,
-         "description":"Sitio web para una conferencia de IT con pasarelas de pago y registro de usuarios.",
-         "highlights":[
-            "Integración JSON",
-            "API de PayPal",
-            "API AJAX y PHP"
-         ],
-         "url":"https://github.com/elkiki99/devwebcamp"
-      },
-      {
-         "name":"UpTask",
-         "isActive": "",
-         "description":"Gestor de proyectos en estilo de lista de tareas pendientes",
-         "highlights":[
-            "API Fetch",
-            "Autenticación de token",
-            "MySQL y OOP"
-         ],
-         "url":"https://github.com/elkiki99/UpTask_MVC"
-      },
-      {
-         "name":"AppSalon",
-         "isActive":"",
-         "description":"Proyecto para un salón de belleza con autenticación y reserva de citas",
-         "highlights":[
-            "Panel de administración",
-            "Diseño receptivo",
-            "JavaScript y MVC"
-         ],
-         "url":"https://github.com/elkiki99/appsalon-mvc-php"
-      },
-      {
-         "name":"Bienes Raíces",
-         "isActive":"",
-         "description":"Proyecto de gestión inmobiliaria con área de blog, propiedades y gestión de usuarios",
-         "highlights":[
-            "Consultas a base de datos",
-            "Panel CRUD para Admin",
-            "Autenticación de usuarios"
-         ],
-         "url":"https://github.com/elkiki99/bienes-raices-mvc-oop"
-      }
-   ]
+        "url":"https://github.com/elkiki99/devwebcamp"
+    },
+    {
+        "name":"UpTask",
+        "isActive": "",
+        "description":"Gestor de proyectos en estilo de lista de tareas pendientes",
+        "highlights":[
+          "API Fetch",
+          "Autenticación de token",
+          "MySQL y OOP"
+        ],
+        "url":"https://github.com/elkiki99/UpTask_MVC"
+    }
+  ]
 }
     
           
